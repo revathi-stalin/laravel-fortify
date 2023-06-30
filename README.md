@@ -1,4 +1,4 @@
-<p align="center"><img src="{{ asset('images/fortify.png') }}" alt="Logo Laravel Fortify"></p>
+<p align="center"><img src="assets/fortify.png#gh-dark-mode-only" alt="Logo Laravel Fortify"></p>
 
 <p align="center">
     <a href="https://github.com/laravel/fortify/actions">
