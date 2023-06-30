@@ -1,4 +1,4 @@
-<p align="center"><img src="/art/logo.svg" alt="Logo Laravel Fortify"></p>
+<p align="center">Laravel Fortify"></p>
 
 <p align="center">
     <a href="https://github.com/laravel/fortify/actions">
