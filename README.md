@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/fortify.png#gh-dark-mode-only" alt="Logo Laravel Fortify"></p>
+<p align="center"><img src="assets/fortify.png" alt="Logo Laravel Fortify"></p>
 
 <p align="center">
     <a href="https://github.com/laravel/fortify/actions">
@@ -14,6 +14,8 @@
         <img src="https://img.shields.io/packagist/l/laravel/fortify" alt="License">
     </a>
 </p>
+
+## Laravel Fortify
 
 ## Introduction
 
